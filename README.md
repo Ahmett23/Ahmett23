@@ -13,18 +13,18 @@ I love solving problems with clean code and creative solutions.
 
 ## 🛠️ Tech Stack
 
-I'm a full-stack developer with a serious case of JavaScript fever! 🔥
+**Languages & Frameworks**  
+- JavaScript (ES6+)  
+- React.js  
+- Node.js  
+- React Native  
+- MongoDB  
 
-Frontend:
-React, Vue.js, Vanilla JS, and all the modern tools that make the web sing and dance! 🎶
-
-Backend:
-Node.js, NestJS – I’m your go-to for building scalable, robust APIs that make your app rocket! 🚀
-
-Design:
-Tailwind CSS is my secret weapon – clean, efficient, and ready to slay any design challenge! 🌟
-
-(and of course a bit of magic through Figma first 🪄)
+**Tools & Platforms**  
+- Git & GitHub  
+- VS Code  
+- Figma  
+- adobe illustrator
  
 
 ---

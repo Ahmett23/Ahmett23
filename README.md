@@ -1,23 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ahmett23</h1>
-<h3 align="center">I’m a Front-end Developer based in Mogadishu, Somalia. Building fast, accessible, and responsive web applications.</h3>
+# Hi there 👋 I'm Ahmett
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmett23&label=Profile%20views&color=0e75b6&style=flat" alt="ahmett23" /> </p>
+## 🚀 About Me
+I'm a **Full Stack Developer** passionate about building scalable, high-performance, and user-friendly applications.  
+I love solving problems with clean code and creative solutions.
 
-<p align="left"> <a href="https://twitter.com/mr__taatiko" target="blank"><img src="https://img.shields.io/twitter/follow/mr__taatiko?logo=twitter&style=for-the-badge" alt="mr__taatiko" /></a> </p>
+- 🌍 Based in Somalia  
+- 💻 Building full-stack web and mobile applications  
+- 🎯 Focused on writing clean, maintainable, and efficient code  
+- 📈 Always learning and exploring new technologies  
 
-- 🔭 I’m currently working on [Arista-Home](https://github.com/Ahmett23/Arista-Home)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr__taatiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr__taatiko" height="30" width="40" /></a>
-<a href="https://instagram.com/_ahmett_updi_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahmett_updi_23" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
+**Languages & Frameworks**  
+- JavaScript (ES6+)  
+- React.js  
+- Node.js  
+- React Native  
+- MongoDB  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+**Tools & Platforms**  
+- Git & GitHub  
+- VS Code  
+- Figma  
+- Postman  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmett23&show_icons=true&locale=en&layout=compact" alt="ahmett23" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmett23&show_icons=true&locale=en" alt="ahmett23" /></p>
+## 📌 Pinned Projects
+- **Portfolio Website** — Personal portfolio built with React and Tailwind CSS.  
+- **Task Manager App** — Full-stack CRUD app using Node.js, Express, and MongoDB.  
+- **E-Commerce Mobile App** — React Native app for online shopping.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmett23&" alt="ahmett23" /></p>
+---
+
+## 📊 GitHub Stats
+![Ahmett's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmett23&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmett23&layout=compact&theme=radical)  
+
+---
+
+## 📫 Contact Me
+- **Email:** youremail@example.com  
+- **LinkedIn:** [Ahmett LinkedIn](https://linkedin.com)  
+- **Twitter:** [@Ahmett](https://twitter.com)  
+
+---
+⭐️ From [Ahmett](https://github.com/Ahmett23)

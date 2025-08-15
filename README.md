@@ -45,9 +45,9 @@ I love solving problems with clean code and creative solutions.
 ---
 
 ## 📫 Contact Me
-- **Email:** youremail@example.com  
-- **LinkedIn:** [Ahmett LinkedIn](https://linkedin.com)  
-- **Twitter:** [@Ahmett](https://twitter.com)  
+- **Email:** iamaxmedd@gmail.com
+- **LinkedIn:** [Ahmett LinkedIn](https://www.linkedin.com/in/ahm3tt-updi-176840360/)  
+- **Twitter:** [@Ahmett](https://x.com/mr__Taatiko)  
 
 ---
 ⭐️ From [Ahmett](https://github.com/Ahmett23)

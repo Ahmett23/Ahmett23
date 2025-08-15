@@ -1,5 +1,4 @@
-![banner](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8bea6265-7567-474e-a2a3-011215fcad89" />
-)
+![image alt](https://github.com/Ahmett23/Ahmett23/blob/8f7169d1a23ebc2e8121cff5eeb2560c09ff7953/ChatGPT%20Image%20Aug%2015%2C%202025%2C%2011_19_23%20AM.png)
 # Hi there 👋 I'm Ahmett
 
 ## 🚀 About Me

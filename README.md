@@ -1,4 +1,5 @@
-![banner](ChatGPT Image Aug 15, 2025, 11_19_23 AM.png)
+![banner](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8bea6265-7567-474e-a2a3-011215fcad89" />
+)
 # Hi there 👋 I'm Ahmett
 
 ## 🚀 About Me

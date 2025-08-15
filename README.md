@@ -46,7 +46,7 @@ I love solving problems with clean code and creative solutions.
 
 ## 📫 Contact Me
 - **Email:** iamaxmedd@gmail.com
-- **LinkedIn:** [Ahmett LinkedIn](https://www.linkedin.com/in/ahm3tt-updi-176840360/)  
+- **LinkedIn:** [Ahmett LinkedIn](www.linkedin.com/in/ahm3tt-updi-176840360)  
 - **Twitter:** [@Ahmett](https://x.com/mr__Taatiko)  
 
 ---

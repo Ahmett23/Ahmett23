@@ -1,3 +1,4 @@
+file:///C:/Users/KCT/Downloads/ChatGPT%20Image%20Aug%2015,%202025,%2011_19_23%20AM.png
 # Hi there 👋 I'm Ahmett
 
 ## 🚀 About Me

@@ -1,4 +1,4 @@
-file:///C:/Users/KCT/Downloads/ChatGPT%20Image%20Aug%2015,%202025,%2011_19_23%20AM.png
+![banner](ChatGPT Image Aug 15, 2025, 11_19_23 AM.png)
 # Hi there 👋 I'm Ahmett
 
 ## 🚀 About Me

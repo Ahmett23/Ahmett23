@@ -15,11 +15,15 @@ I love solving problems with clean code and creative solutions.
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-- JavaScript (ES6+)  
-- React.js  
-- Node.js  
+- JavaScript = MERN + react native 
+-  
+- MongoDB
+- Express(.js) 
+- Node.js
+- React(.js)
+- 
 - React Native  
-- MongoDB  
+    
 
 **Tools & Platforms**  
 - Git & GitHub  
